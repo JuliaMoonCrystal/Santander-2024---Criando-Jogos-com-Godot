@@ -1,1 +1,12 @@
 Repo Digital Innovation onde -->https://github.com/digitalinnovationone/trilha-godot
+
+Os Três "C"´S
+
+--Character
+  -Desenvolvimento da história do personagem, qual vai ser o estilo dele, se ela tem pensamentos sobre o mundo do game e etc.
+
+--Camera 
+  -Posicionamento da câmera.
+
+--Controls
+  -Como vão ser a ações do personagens.
