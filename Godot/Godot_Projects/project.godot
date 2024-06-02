@@ -11,5 +11,6 @@ config_version=5
 [application]
 
 config/name="Godot Examples"
+run/main_scene="res://hello_word.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
